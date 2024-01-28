@@ -3,6 +3,7 @@
 Dogs é um site desenvolvido no curso de React completo pela Origamid. Tem a ideia de ser uma rede social para cachorros.
 <br>
 <a href="https://dogs-eta-blue.vercel.app/">Live Preview</a>
+(Login padrão: dog - dog)
 
 ## Tecnologias
 
